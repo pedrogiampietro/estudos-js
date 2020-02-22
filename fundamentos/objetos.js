@@ -6,7 +6,7 @@ console.log(prod1.preco)
 
 const prod2 = { 
     nome: 'Camisa Polo',
-    preco: 78.90
+    preco: 78.90f
 }
 
 console.log(prod2);
